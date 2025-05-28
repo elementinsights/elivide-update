@@ -1,0 +1,15 @@
+recharge-subscription-widget {
+  max-width:100%;
+}
+
+/* .shopify-block.shopify-app-block.recharge-subscription-widget > recharge-subscription-widget {
+  max-width:100%;
+} */
+
+.rc-purchase-option__sub-container {
+  background:blue !important;
+}
+
+. rc-purchase-option__label {
+  background:red !important;
+}

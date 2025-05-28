@@ -1,0 +1,17 @@
+// Paste the following as the first section for bottle subscriptions
+
+{
+  "sections": {
+    "recharge_styling_bottles": {
+      "type": "recharge-styling-bottles",
+      "settings": {}
+    },
+    // etc.
+
+// Paste the following for "order" for bottle subscriptions
+
+ "order": [
+    "recharge_styling_bottles",
+    "breadcrumbs",
+    "main",
+    // etc.

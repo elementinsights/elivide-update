@@ -1,0 +1,18 @@
+// Paste the following as the first section for filter subscriptions
+
+{
+  "sections": {
+    "recharge_styling_filters": {
+      "type": "recharge-styling-filters",
+      "settings": {}
+    },
+    // etc.
+
+
+// Paste the following for "order" for filter subscriptions
+
+ "order": [
+    "recharge_styling_filters",
+    "breadcrumbs",
+    "main",
+    // etc.

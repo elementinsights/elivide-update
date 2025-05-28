@@ -21,3 +21,12 @@ Ensure that your `theme.liquid` file is correctly importing the `ultimate-datala
 ```liquid
 {% render 'ultimate-datalayer' %}
 ```
+
+## 3. Check `recharge-styling-bottles.liquid'` and `recharge-styling-filter.liquid'` in the sections folder
+
+Verify that a current `recharge-styling-bottles.liquid'` and `recharge-styling-filters.liquid` file exist with the correct code.
+
+Ensure that product templates for bottles with a subscription have the correct code as found in the `product.recharge-bottle-subscription.json` file above.
+
+Ensure that product templates for filters with a subscription have the correct code as found in the `product.recharge-filter-subscription.json` file above.
+

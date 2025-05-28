@@ -22,7 +22,7 @@ Ensure that your `theme.liquid` file is correctly importing the `ultimate-datala
 {% render 'ultimate-datalayer' %}
 ```
 
-## 3. Check `recharge-styling-bottles.liquid'` and `recharge-styling-filter.liquid'` in the sections folder
+## 3. Check `recharge-styling-bottles.liquid` and `recharge-styling-filter.liquid` in the sections folder
 
 Verify that a current `recharge-styling-bottles.liquid'` and `recharge-styling-filters.liquid` file exist with the correct code.
 

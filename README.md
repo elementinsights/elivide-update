@@ -1,6 +1,6 @@
 # Styles.css Integration Guide
 
-This guide explains how to ensure `styles.css` is properly integrated into your Shopify theme.
+This guide explains how to ensure `styles.css` is properly integrated into your Shopify theme. All of the code can be found in the files above.
 
 ## 1. Check `styles.css` in `theme.liquid`
 

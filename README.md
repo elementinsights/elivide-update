@@ -8,5 +8,6 @@ Ensure that your `theme.liquid` file is correctly importing the `styles.css` fil
 
 ```liquid
 {{ 'styles.css' | asset_url | stylesheet_tag }}
+```
 
 Also verify that a current styles.css file exists.
